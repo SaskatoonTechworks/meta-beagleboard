@@ -230,6 +230,8 @@ EXTRA_OEMAKE = "${PARALLEL_MAKE} "
 do_install_append() {
 	oe_runmake headers_install INSTALL_HDR_PATH=${D}${exec_prefix}/src/linux-${KERNEL_VERSION} ARCH=$ARCH
 	oe_runmake firmware_install INSTALL_MOD_PATH=${D} ARCH=$ARCH
+	rm -rf ${D}/lib/firmware/sb16 || true
+	rm -rf ${D}/lib/firmware/korg || true
 	install -d ${D}/boot
 	make dtbs || true
 	install -m 0644 ${S}/arch/arm/boot/dts/*.dtb ${D}/boot || true
