@@ -3,6 +3,7 @@ require linux.inc
 DESCRIPTION = "Linux kernel"
 KERNEL_IMAGETYPE ?= "zImage"
 
+DEFAULT_PREFERENCE_beaglebone = "-1"
 COMPATIBLE_MACHINE = "(beaglebone)"
 
 # The main PR is now using MACHINE_KERNEL_PR, for omap3 see conf/machine/include/omap3.inc
