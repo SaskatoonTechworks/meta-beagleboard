@@ -1,4 +1,4 @@
-From 09ffe6b17d62f31cb68aea1e6bcca011129b900b Mon Sep 17 00:00:00 2001
+From d414c50ca5c7627d67098709c4c210318dd4e0f7 Mon Sep 17 00:00:00 2001
 From: Robert Nelson <robertcnelson@gmail.com>
 Date: Tue, 25 Feb 2014 11:01:06 -0600
 Subject: [PATCH 2/4] dts: boneblack: ttyO1/ttyO2/ttyO4

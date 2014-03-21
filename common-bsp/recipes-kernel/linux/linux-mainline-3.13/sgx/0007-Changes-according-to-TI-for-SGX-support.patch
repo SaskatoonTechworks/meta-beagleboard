@@ -1,4 +1,4 @@
-From 49f13475bd76ee1f62a52328f1bdf4970fbdb2e3 Mon Sep 17 00:00:00 2001
+From c175d871d550513ad62c888d424a5b9f8322407d Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Alexander=20R=C3=B6ssler?= <mail.aroessler@gmail.com>
 Date: Fri, 1 Nov 2013 15:35:26 +0100
 Subject: [PATCH 7/7] Changes according to TI for SGX support

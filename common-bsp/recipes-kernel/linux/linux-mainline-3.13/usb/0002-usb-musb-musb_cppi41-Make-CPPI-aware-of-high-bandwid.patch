@@ -1,4 +1,4 @@
-From 89fa67f3e7456a607fc76ea5d687b42c99338532 Mon Sep 17 00:00:00 2001
+From d0f131854ceb0b42dfe176d85ed3fe755ae6583b Mon Sep 17 00:00:00 2001
 From: George Cherian <george.cherian@ti.com>
 Date: Fri, 24 Jan 2014 19:44:54 +0530
 Subject: [PATCH 2/3] usb: musb: musb_cppi41: Make CPPI aware of high bandwidth

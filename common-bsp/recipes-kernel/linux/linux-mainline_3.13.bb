@@ -45,6 +45,20 @@ SRC_URI += " \
 	file://static-capes/0002-dts-boneblack-ttyO1-ttyO2-ttyO4.patch \
 	file://static-capes/0003-Added-Argus-UPS-cape-support.patch \
 	file://static-capes/0004-build-capes-one-layer.patch \
+	file://i2c-fixes/0001-i2c-EEPROM-In-kernel-memory-accessor-interface.patch \
+	file://i2c-fixes/0002-grove-i2c-Add-rudimentary-grove-i2c-motor-control-dr.patch \
+	file://capemgr/0001-capemgr-Capemgr-makefiles-and-Kconfig-fragments.patch \
+	file://capemgr/0002-capemgr-Beaglebone-capemanager.patch \
+	file://capemgr/0003-capemgr-Remove-__devinit-__devexit.patch \
+	file://capemgr/0004-bone-capemgr-Make-sure-cape-removal-works.patch \
+	file://capemgr/0005-bone-capemgr-Fix-crash-when-trying-to-remove-non-exi.patch \
+	file://capemgr/0006-bone-capemgr-Force-a-slot-to-load-unconditionally.patch \
+	file://capemgr/0007-capemgr-Added-module-param-descriptions.patch \
+	file://capemgr/0008-capemgr-Implement-disable-overrides-on-the-cmd-line.patch \
+	file://capemgr/0009-capemgr-Implement-cape-priorities.patch \
+	file://capemgr/0010-bone-capemgr-Introduce-simple-resource-tracking.patch \
+	file://capemgr/0011-capemgr-Add-enable_partno-parameter.patch \
+	file://cape-import/0001-capes-import-from-3.8.patch \
 	file://defconfig \
   file://am335x-pm-firmware.bin \
 "

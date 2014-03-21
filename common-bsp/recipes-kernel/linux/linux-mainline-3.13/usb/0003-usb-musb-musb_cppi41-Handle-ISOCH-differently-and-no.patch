@@ -1,4 +1,4 @@
-From 1327c16d7578f7623f9983f9b5097da73963fb76 Mon Sep 17 00:00:00 2001
+From e3baa91a66a4bae6961bd505fadcca69847433c8 Mon Sep 17 00:00:00 2001
 From: George Cherian <george.cherian@ti.com>
 Date: Fri, 24 Jan 2014 19:44:55 +0530
 Subject: [PATCH 3/3] usb: musb: musb_cppi41: Handle ISOCH differently and not

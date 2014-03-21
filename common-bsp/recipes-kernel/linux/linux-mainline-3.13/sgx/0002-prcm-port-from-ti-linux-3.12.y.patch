@@ -1,4 +1,4 @@
-From bf79d64abf3efecec19eea988884a07b3500d142 Mon Sep 17 00:00:00 2001
+From 9962654126f8ceaade0d5669acb69a988b1c5525 Mon Sep 17 00:00:00 2001
 From: Robert Nelson <robertcnelson@gmail.com>
 Date: Wed, 18 Dec 2013 11:23:54 -0600
 Subject: [PATCH 2/7] prcm: port from ti-linux-3.12.y

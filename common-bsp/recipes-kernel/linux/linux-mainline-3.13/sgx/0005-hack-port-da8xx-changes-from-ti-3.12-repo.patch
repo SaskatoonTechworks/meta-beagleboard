@@ -1,4 +1,4 @@
-From 1c5bdd4ac58f27ea8abf1f9827f6ac4c2b578ec2 Mon Sep 17 00:00:00 2001
+From 2d19a85344b17161d8c48d48740805c8fa88d4e6 Mon Sep 17 00:00:00 2001
 From: Robert Nelson <robertcnelson@gmail.com>
 Date: Wed, 18 Dec 2013 12:05:16 -0600
 Subject: [PATCH 5/7] hack: port da8xx changes from ti 3.12 repo

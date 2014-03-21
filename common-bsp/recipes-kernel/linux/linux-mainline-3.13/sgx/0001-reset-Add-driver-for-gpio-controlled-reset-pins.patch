@@ -1,4 +1,4 @@
-From e7a0f3877acbf137e11e57c6cd8c4021061c41e5 Mon Sep 17 00:00:00 2001
+From 596612d75530d5383ca94c253a92666f99f61533 Mon Sep 17 00:00:00 2001
 From: Philipp Zabel <p.zabel@pengutronix.de>
 Date: Tue, 28 May 2013 17:06:15 +0200
 Subject: [PATCH 1/7] reset: Add driver for gpio-controlled reset pins

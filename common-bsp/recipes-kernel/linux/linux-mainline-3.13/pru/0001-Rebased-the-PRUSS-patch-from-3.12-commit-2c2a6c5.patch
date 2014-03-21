@@ -1,4 +1,4 @@
-From ae2a2025c59ff05dc915446f085e0bbae201436e Mon Sep 17 00:00:00 2001
+From 64f06dd70394a9b69d77b40457ec8042d60a874c Mon Sep 17 00:00:00 2001
 From: vmpn <vmpn@vmpn.net>
 Date: Sun, 2 Mar 2014 15:47:52 -0500
 Subject: [PATCH] Rebased the PRUSS patch from 3.12 commit 2c2a6c5

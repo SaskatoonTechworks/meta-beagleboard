@@ -1,4 +1,4 @@
-From 1a66daa9f15ab8a1aba2f42386f0e3b1eb56383e Mon Sep 17 00:00:00 2001
+From 40c53e4114695a5f69f8d8532e56997d1ba6d8c9 Mon Sep 17 00:00:00 2001
 From: Dave Lambert <dave@lambsys.com>
 Date: Wed, 5 Mar 2014 23:31:24 -0600
 Subject: [PATCH 3/4] Added Argus UPS cape support.

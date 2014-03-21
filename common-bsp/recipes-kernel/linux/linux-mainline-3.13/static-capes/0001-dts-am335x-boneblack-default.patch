@@ -1,4 +1,4 @@
-From da10cc98b42820ab7fafb9042b1ce855c44a705a Mon Sep 17 00:00:00 2001
+From d3c3c9aa9f1b607ec459d27ae499c64429975284 Mon Sep 17 00:00:00 2001
 From: Robert Nelson <robertcnelson@gmail.com>
 Date: Tue, 25 Feb 2014 11:00:12 -0600
 Subject: [PATCH 1/4] dts: am335x-boneblack-default

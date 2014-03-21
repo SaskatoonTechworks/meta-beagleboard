@@ -1,4 +1,4 @@
-From 592afa8867bed6984e16aa3f766af74e417c665e Mon Sep 17 00:00:00 2001
+From 60d8d5878d7e4fd2604d7dbe42bc5201ca9842c5 Mon Sep 17 00:00:00 2001
 From: Prathap M S <msprathap@ti.com>
 Date: Thu, 17 Oct 2013 01:46:32 +0530
 Subject: [PATCH 3/7] ARM : DTS : AM335x : Add SGX DT node

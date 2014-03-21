@@ -1,4 +1,4 @@
-From f5967ace70e59d27a6e34e50e46845b66e3b8957 Mon Sep 17 00:00:00 2001
+From f0b3a7a9fa6988b6c0c1ce1faef6afe358b1779e Mon Sep 17 00:00:00 2001
 From: Philippe Proulx <philippe.proulx@savoirfairelinux.com>
 Date: Fri, 13 Sep 2013 14:33:35 -0400
 Subject: [PATCH] ARM: omap: add DT support for deasserting hardware reset
